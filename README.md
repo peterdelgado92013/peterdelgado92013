@@ -13,6 +13,8 @@ Configured NSGs, SSH access, and traffic inspection to enforce least-privilege a
 
 🔗 https://github.com/peterdelgado92013/azure-public-private-networking
 
+![Azure Public & Private Networking](02-vnet-overview.png)
+
 ---
 
 ### 🖥️ Azure Virtual Machine Deployment
