@@ -1,8 +1,33 @@
 ## Hi there 👋
 
-Hi, I’m Peter — an IT professional with hands-on experience building and supporting cloud and infrastructure solutions.
+Hi, I’m Peter 👋  
+☁️ Cloud engineer focused on building reliable, secure, and scalable infrastructure.  
+Hands-on with Azure, cloud networking, virtual machines, and real-world projects.
 
 ---
+## 🚀 Featured Projects
+
+### ☁️ Azure Public & Private Networking
+**Built a secure Azure virtual network architecture with public and private subnets.**  
+Configured NSGs, SSH access, and traffic inspection to enforce least-privilege access.
+
+🔗 https://github.com/peterdelgado92013/azure-public-private-networking
+
+---
+
+### 🖥️ Azure Virtual Machine Deployment
+**Deployed and secured Windows and Ubuntu virtual machines in Azure.**  
+Configured networking, remote access (RDP/SSH), and security best practices.
+
+🔗 https://github.com/peterdelgado92013/azure-virtual-machine-deployment
+
+---
+
+### 🔐 Azure Windows VM – RDP Access
+**Configured secure RDP access to a Windows VM in Azure.**  
+Focused on access control, firewall rules, and troubleshooting connectivity issues.
+
+🔗 https://github.com/peterdelgado92013/azure-windows-vm-rdp
 
 ## 🧑‍💻 Information Technology Projects
 
