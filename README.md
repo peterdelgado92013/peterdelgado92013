@@ -55,15 +55,6 @@ This project demonstrates real-world IT support workflows from both **admin and 
 
 ---
 
-### ☁️ Microsoft Azure
-- Azure Virtual Machine (VM – Virtual Machine) Deployment and Secure Access  
-- Configuring On-Premises Active Directory within Azure Virtual Machines  
-- Network Security Groups (NSGs – Network Security Groups) and Network Traffic Inspection  
-
-> Focus: Cloud infrastructure, networking, access control, and security best practices.
-
----
-
 ## 🔧 Core Skills & Technologies
 - Microsoft Azure (Virtual Machines, Virtual Networks, Network Security Groups)
 - Linux (Ubuntu)
