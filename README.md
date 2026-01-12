@@ -31,12 +31,25 @@ Focused on access control, firewall rules, and troubleshooting connectivity issu
 
 🔗 https://github.com/peterdelgado92013/azure-windows-vm-rdp
 
-## 🧑‍💻 Information Technology Projects
+## 🎫 osTicket Help Desk Ticketing System
 
-### 🧾 osTicket (Help Desk Ticketing System)
-- osTicket: Prerequisites and Installation  
-- osTicket: Post-Installation Configuration  
-- osTicket: Ticket Lifecycle Examples  
+Ticket Lifecycle: Intake Through Resolution**
+
+Hands-on implementation of a full help desk ticketing system using **osTicket** hosted on **Microsoft Azure**.  
+This project demonstrates real-world IT support workflows from both **admin and end-user perspectives**.
+
+**What I did:**
+- Deployed Windows VM in Azure
+- Installed & configured IIS
+- Installed and configured osTicket
+- Created departments, agents, users, and SLAs
+- Created, managed, and resolved tickets
+- Demonstrated full ticket lifecycle via video
+
+**🔗 https://github.com/peterdelgado92013/osTicket-Help-Desk-Ticketing-System-
+
+🎥 **Demo Video:** https://youtu.be/KsUij6ap3wc?si=ZE0KCSe1MTMBi1AM
+
 
 > Focus: IT support workflows, ticket lifecycle management, and troubleshooting documentation.
 
