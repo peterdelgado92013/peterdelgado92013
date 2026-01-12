@@ -1,7 +1,7 @@
 # Peter Delgado  
 ☁️ Cloud Engineer | Azure • Networking • Virtual Machines
 
-Focused on building reliable, secure, and scalable infrastructure.  
+ Focused on building reliable, secure, and scalable infrastructure.  
 Hands-on with Azure, cloud networking, virtual machines, and real-world projects.
 
 ---
