@@ -55,6 +55,16 @@ This project demonstrates real-world IT support workflows from both **admin and 
 
 ---
 
+## 🚀 Featured Project: Active Directory Domain Services Lab (Azure)
+
+Enterprise-style Active Directory lab deployed in Microsoft Azure.  
+This project demonstrates VM deployment, DNS configuration, client-to-domain communication, firewall validation, PowerShell-based troubleshooting, and identity management fundamentals.
+
+🔗 **Repository:** https://github.com/peterdelgado92013/azure-active-directory-lab
+
+🎥 **Video Walkthrough:** https://youtu.be/pn5dJ4kx_qg?si=Ua44oW5MNWzyvkvq
+
+---
 ## 🔧 Core Skills & Technologies
 - Microsoft Azure (Virtual Machines, Virtual Networks, Network Security Groups)
 - Linux (Ubuntu)
