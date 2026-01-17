@@ -55,6 +55,8 @@ Focused on access control, firewall rules, and troubleshooting connectivity issu
 
 🔗 https://github.com/peterdelgado92013/azure-windows-vm-rdp
 
+---
+
  ### 🎫 osTicket Help Desk Ticketing System
 
 **Ticket Lifecycle: Intake Through Resolution**
@@ -100,9 +102,10 @@ This project demonstrates VM deployment, DNS configuration, client-to-domain com
 ---
 
 ## 📈 What I’m Currently Working On
-- Expanding Azure cloud projects with a focus on security, monitoring, and cost awareness  
-- Building a hands-on cloud engineering portfolio with documented walkthroughs  
-- Preparing for Azure cloud certifications  
+- Building and documenting hands-on cloud projects across **AWS and Azure**, with an emphasis on permissions, security, and real-world troubleshooting  
+- Expanding my cloud engineering portfolio with clear walkthroughs, screenshots, and video demos  
+- Strengthening fundamentals in identity, access control, monitoring, and cost awareness while preparing for **Azure certifications**
+
 
 ---
 
