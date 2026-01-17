@@ -7,6 +7,30 @@ Hands-on with Azure, cloud networking, virtual machines, and real-world projects
 ---
 ## 🚀 Featured Projects
 
+---
+
+## Secure Static Website Hosting on AWS S3  💻
+
+I designed and deployed a **secure static website using Amazon S3**, including diagnosing and resolving a real-world **403 Access Denied** error by correctly configuring **bucket policies and public access settings**.
+
+### What this project demonstrates:
+- Amazon S3 static website hosting
+- Public access configuration & security considerations
+- Troubleshooting and fixing 403 Forbidden errors
+- Clear documentation with screenshots and a video walkthrough
+
+🔗 **GitHub Repository:**  
+https://github.com/peterdelgado92013/my-static-website
+
+🎥 **Project Walkthrough (Unlisted YouTube):**  
+https://youtu.be/5WCg-RplnbU
+
+👇 Click the thumbnail below to watch the full walkthrough:
+
+[![AWS S3 Static Website Walkthrough](https://img.youtube.com/vi/5WCg-RplnbU/maxresdefault.jpg)](https://youtu.be/5WCg-RplnbU)
+
+---
+
 ### ☁️ Azure Public & Private Networking
 **Built a secure Azure virtual network architecture with public and private subnets.**  
 Configured NSGs, SSH access, and traffic inspection to enforce least-privilege access.
