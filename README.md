@@ -31,6 +31,25 @@ https://youtu.be/5WCg-RplnbU
 
 ---
 
+## AWS IAM Security & Least Privilege
+
+![AWS IAM Security Project](https://raw.githubusercontent.com/peterdelgado92013/aws-iam-security-basics/main/assets/IAM-Header.png)
+
+### 📌 Project Overview
+Hands-on AWS security project focused on **Identity and Access Management (IAM)** best practices.  
+Implemented **least-privilege access**, secured EC2 resources, and validated permissions through real user testing.
+
+### 🛠️ Key Skills Demonstrated
+- AWS IAM user and policy management
+- Least privilege security design
+- EC2 access control and testing
+- IAM policy JSON analysis
+- Cloud security fundamentals
+
+🔗 **View the project repository:**  
+👉 [aws-iam-security-basics](https://github.com/peterdelgado92013/aws-iam-security-basics)
+
+
 ### ☁️ Azure Public & Private Networking
 **Built a secure Azure virtual network architecture with public and private subnets.**  
 Configured NSGs, SSH access, and traffic inspection to enforce least-privilege access.
