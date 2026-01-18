@@ -100,7 +100,7 @@ This project demonstrates real-world IT support workflows from both **admin and 
 
 ---
 
-## 🚀 Featured Project: Active Directory Domain Services Lab (Azure)
+## Active Directory Domain Services Lab (Azure)
 
 Enterprise-style Active Directory lab deployed in Microsoft Azure.  
 This project demonstrates VM deployment, DNS configuration, client-to-domain communication, firewall validation, PowerShell-based troubleshooting, and identity management fundamentals.
