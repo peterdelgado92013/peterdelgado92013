@@ -1,11 +1,12 @@
 # Peter Delgado  
-☁️ Cloud Engineer | Azure • AWS ∙ Networking • Virtual Machines
+☁️ Cloud Engineer | Azure • AWS • Networking • Virtual Machines
 
- Focused on building reliable, secure, and scalable infrastructure.  
-Hands-on with AWS, Azure, cloud networking, virtual machines, and real-world projects.
+Focused on building **secure, reliable, and scalable cloud infrastructure**.  
+Hands-on with AWS and Azure through real-world security labs, networking projects, and infrastructure deployments.
 
 ---
-## 🚀 Featured Projects
+
+## 🚀 Featured Security Projects
 
 ---
 
@@ -15,176 +16,118 @@ Hands-on with AWS, Azure, cloud networking, virtual machines, and real-world pro
 
 Hands-on AWS cloud security project focused on **detecting real-world attack behavior** using **Amazon GuardDuty** in a controlled lab environment.
 
-🔗 **Full Project Repository:**  
+🔗 **Repository:**  
 https://github.com/peterdelgado92013/aws-guardduty-threat-detection
 
----
-
 ### 🔍 What I Did
-- Deployed an intentionally vulnerable web application using **AWS CloudFormation**
-- Enabled and configured **Amazon GuardDuty** for account-wide threat detection
-- Simulated real attack techniques including:
-  - SQL (Structured Query Language) injection
-  - Command injection
-- Simulated **credential misuse** by accessing AWS resources via exposed credentials
-- Used **AWS CloudShell** to interact with cloud resources as part of the attack simulation
-- Uploaded a malware test file to **Amazon S3** to validate GuardDuty malware detection
-- Analyzed and interpreted GuardDuty findings and severity levels
-
----
+- Deployed a vulnerable web application using **AWS CloudFormation**
+- Enabled and configured **Amazon GuardDuty** for account-wide monitoring
+- Simulated real attack techniques:
+  - SQL (Structured Query Language) injection  
+  - Command injection  
+- Simulated **credential misuse** and analyzed GuardDuty findings
+- Validated malware detection using **Amazon S3**
+- Reviewed findings severity and investigation context
 
 ### 🧠 What I Learned
 - How GuardDuty detects anomalous behavior and credential exfiltration
-- How common web application vulnerabilities lead to cloud security incidents
-- How attackers pivot from application access to cloud resource access
-- How GuardDuty findings map to real SOC alerts and investigation workflows
+- How web vulnerabilities translate into cloud security incidents
+- How GuardDuty findings map to real SOC investigation workflows
 - How malware protection works for Amazon S3
-- How to interpret GuardDuty finding types, severity, and context
+
+### 🛠️ Tools Used
+Amazon GuardDuty · AWS CloudFormation · Amazon EC2 · Amazon S3 · AWS CloudShell
 
 ---
 
-### 🛠️ Tools & Services Used
-- **Amazon GuardDuty** – Threat detection and security findings
-- **AWS CloudFormation** – Infrastructure-as-Code deployment
-- **Amazon EC2 (Elastic Compute Cloud)** – Hosted vulnerable web application
-- **Amazon S3 (Simple Storage Service)** – Object storage and malware scanning
-- **AWS CloudShell** – Command-line access for simulation and analysis
+## 🌐 Secure Static Website Hosting on AWS (S3)
 
----
+Designed and deployed a **secure static website using Amazon S3**, including diagnosing and resolving a real-world **403 Access Denied** issue by properly configuring bucket policies and public access settings.
 
-### 🧪 Environment Notes
-All activity was performed in a **controlled lab environment** for educational and learning purposes.  
-Resources were deleted after testing to avoid unnecessary costs.
-
-
----
-
-## Secure Static Website Hosting on AWS S3  💻
-
-I designed and deployed a **secure static website using Amazon S3**, including diagnosing and resolving a real-world **403 Access Denied** error by correctly configuring **bucket policies and public access settings**.
-
-### What this project demonstrates:
-- Amazon S3 static website hosting
-- Public access configuration & security considerations
-- Troubleshooting and fixing 403 Forbidden errors
-- Clear documentation with screenshots and a video walkthrough
-
-🔗 **GitHub Repository:**  
+🔗 **Repository:**  
 https://github.com/peterdelgado92013/my-static-website
 
-🎥 **Project Walkthrough (Unlisted YouTube):**  
+🎥 **Video Walkthrough:**  
 https://youtu.be/5WCg-RplnbU
-
-👇 Click the thumbnail below to watch the full walkthrough:
-
-[![AWS S3 Static Website Walkthrough](https://img.youtube.com/vi/5WCg-RplnbU/maxresdefault.jpg)](https://youtu.be/5WCg-RplnbU)
 
 ---
 
-## AWS IAM Security & Least Privilege
+## 🔐 AWS IAM Security & Least Privilege
 
 ![AWS IAM Security Project](https://raw.githubusercontent.com/peterdelgado92013/aws-iam-security-basics/main/assets/IAM-Header.png)
 
-### 📌 Project Overview
-Hands-on AWS security project focused on **Identity and Access Management (IAM)** best practices.  
-Implemented **least-privilege access**, secured EC2 resources, and validated permissions through real user testing.
+Hands-on AWS security project focused on **Identity and Access Management (IAM)** best practices and **least-privilege design**.
 
-### 🛠️ Key Skills Demonstrated
-- AWS IAM user and policy management
-- Least privilege security design
-- EC2 access control and testing
+**Highlights:**
+- IAM users, groups, and policy design
+- Least-privilege access enforcement
+- EC2 permission testing
 - IAM policy JSON analysis
-- Cloud security fundamentals
 
-🔗 **View the project repository:**  
-👉 [aws-iam-security-basics](https://github.com/peterdelgado92013/aws-iam-security-basics)
+🔗 **Repository:**  
+https://github.com/peterdelgado92013/aws-iam-security-basics
 
 ---
 
-### ☁️ Azure Public & Private Networking
-**Built a secure Azure virtual network architecture with public and private subnets.**  
-Configured NSGs, SSH access, and traffic inspection to enforce least-privilege access.
+## ☁️ Cloud Infrastructure Projects (Azure & AWS)
+
+### Azure Public & Private Networking
+Built a secure Azure virtual network architecture with public and private subnets, NSGs, and controlled SSH access.
 
 🔗 https://github.com/peterdelgado92013/azure-public-private-networking
 
-![Azure Public & Private Networking](02-vnet-overview.png)
-
 ---
 
-### 🖥️ Azure Virtual Machine Deployment
-**Deployed and secured Windows and Ubuntu virtual machines in Azure.**  
-Configured networking, remote access (RDP/SSH), and security best practices.
+### Azure Virtual Machine Deployment
+Deployed and secured Windows and Ubuntu virtual machines with proper networking and access controls.
 
 🔗 https://github.com/peterdelgado92013/azure-virtual-machine-deployment
 
 ---
 
-### 🔐 Azure Windows VM – RDP Access
-**Configured secure RDP access to a Windows VM in Azure.**  
-Focused on access control, firewall rules, and troubleshooting connectivity issues.
+### Azure Windows VM – RDP Access
+Configured secure RDP access to a Windows VM, focusing on firewall rules and connectivity troubleshooting.
 
 🔗 https://github.com/peterdelgado92013/azure-windows-vm-rdp
 
 ---
 
- ### 🎫 osTicket Help Desk Ticketing System
+## 🧩 IT Support & Identity Labs
 
-**Ticket Lifecycle: Intake Through Resolution**
-
-Hands-on implementation of a full help desk ticketing system using **osTicket** hosted on **Microsoft Azure**.  
-This project demonstrates real-world IT support workflows from both **admin and end-user perspectives**.
-
-**What I did:**
-- Deployed Windows VM in Azure
-- Installed & configured IIS
-- Installed and configured osTicket
-- Created departments, agents, users, and SLAs
-- Created, managed, and resolved tickets
-- Demonstrated full ticket lifecycle via video
+### 🎫 osTicket Help Desk Ticketing System
+Implemented a full help desk ticketing system using **osTicket** on **Microsoft Azure**, demonstrating real-world IT support workflows.
 
 🔗 https://github.com/peterdelgado92013/osTicket-Help-Desk-Ticketing-System-
 
-🎥 **Demo Video:** https://youtu.be/KsUij6ap3wc?si=ZE0KCSe1MTMBi1AM
-
-
-> Focus: IT support workflows, ticket lifecycle management, and troubleshooting documentation.
+🎥 Demo: https://youtu.be/KsUij6ap3wc
 
 ---
 
-## Active Directory Domain Services Lab (Azure)
+### Active Directory Domain Services Lab (Azure)
+Enterprise-style Active Directory lab covering domain services, DNS, firewall rules, PowerShell troubleshooting, and identity fundamentals.
 
-Enterprise-style Active Directory lab deployed in Microsoft Azure.  
-This project demonstrates VM deployment, DNS configuration, client-to-domain communication, firewall validation, PowerShell-based troubleshooting, and identity management fundamentals.
-
-🔗 **Repository:** https://github.com/peterdelgado92013/azure-active-directory-lab
-
-🎥 **Video Walkthrough:** https://youtu.be/pn5dJ4kx_qg?si=Ua44oW5MNWzyvkvq
+🔗 https://github.com/peterdelgado92013/azure-active-directory-lab  
+🎥 https://youtu.be/pn5dJ4kx_qg
 
 ---
+
 ## 🔧 Core Skills & Technologies
-- Microsoft Azure (Virtual Machines, Virtual Networks, Network Security Groups)
-- Linux (Ubuntu)
-- Secure Shell (SSH)
-- Active Directory
-- Networking Fundamentals (DNS, IP addressing, firewalls)
-- Ticketing Systems & IT Service Management (ITSM)
+- AWS & Microsoft Azure
+- Cloud Security & Identity (IAM, GuardDuty)
+- Virtual Machines (Linux & Windows)
+- Networking (DNS, IP addressing, firewalls, NSGs)
+- Secure Shell (SSH) & Remote Desktop (RDP)
+- Active Directory & IT Service Management (ITSM)
 
 ---
 
 ## 📈 What I’m Currently Working On
-- Building and documenting hands-on cloud projects across **AWS and Azure**, with an emphasis on permissions, security, and real-world troubleshooting  
-- Expanding my cloud engineering portfolio with clear walkthroughs, screenshots, and video demos  
-- Strengthening fundamentals in identity, access control, monitoring, and cost awareness while preparing for **Azure certifications**
-
+- Expanding cloud security projects across **AWS and Azure**
+- Building a security-focused cloud engineering portfolio
+- Strengthening identity, access control, monitoring, and cost awareness
+- Preparing for **Azure and AWS certifications**
 
 ---
 
-
-<h2>🤳Connect with me:</h2>
-
-
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-
-[linkedin]: https://linkedin.com/in/peter-delgado-9632a1196/
+## 🤳 Connect with Me
+[LinkedIn](https://linkedin.com/in/peter-delgado-9632a1196/)
