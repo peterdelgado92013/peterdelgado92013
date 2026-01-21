@@ -9,6 +9,56 @@ Hands-on with AWS, Azure, cloud networking, virtual machines, and real-world pro
 
 ---
 
+## 🛡️ AWS GuardDuty Threat Detection Lab
+
+![AWS GuardDuty Threat Detection Lab](https://raw.githubusercontent.com/peterdelgado92013/aws-guardduty-threat-detection/main/guardduty-header.png)
+
+Hands-on AWS cloud security project focused on **detecting real-world attack behavior** using **Amazon GuardDuty** in a controlled lab environment.
+
+🔗 **Full Project Repository:**  
+https://github.com/peterdelgado92013/aws-guardduty-threat-detection
+
+---
+
+### 🔍 What I Did
+- Deployed an intentionally vulnerable web application using **AWS CloudFormation**
+- Enabled and configured **Amazon GuardDuty** for account-wide threat detection
+- Simulated real attack techniques including:
+  - SQL (Structured Query Language) injection
+  - Command injection
+- Simulated **credential misuse** by accessing AWS resources via exposed credentials
+- Used **AWS CloudShell** to interact with cloud resources as part of the attack simulation
+- Uploaded a malware test file to **Amazon S3** to validate GuardDuty malware detection
+- Analyzed and interpreted GuardDuty findings and severity levels
+
+---
+
+### 🧠 What I Learned
+- How GuardDuty detects anomalous behavior and credential exfiltration
+- How common web application vulnerabilities lead to cloud security incidents
+- How attackers pivot from application access to cloud resource access
+- How GuardDuty findings map to real SOC alerts and investigation workflows
+- How malware protection works for Amazon S3
+- How to interpret GuardDuty finding types, severity, and context
+
+---
+
+### 🛠️ Tools & Services Used
+- **Amazon GuardDuty** – Threat detection and security findings
+- **AWS CloudFormation** – Infrastructure-as-Code deployment
+- **Amazon EC2 (Elastic Compute Cloud)** – Hosted vulnerable web application
+- **Amazon S3 (Simple Storage Service)** – Object storage and malware scanning
+- **AWS CloudShell** – Command-line access for simulation and analysis
+
+---
+
+### 🧪 Environment Notes
+All activity was performed in a **controlled lab environment** for educational and learning purposes.  
+Resources were deleted after testing to avoid unnecessary costs.
+
+
+---
+
 ## Secure Static Website Hosting on AWS S3  💻
 
 I designed and deployed a **secure static website using Amazon S3**, including diagnosing and resolving a real-world **403 Access Denied** error by correctly configuring **bucket policies and public access settings**.
@@ -49,6 +99,7 @@ Implemented **least-privilege access**, secured EC2 resources, and validated per
 🔗 **View the project repository:**  
 👉 [aws-iam-security-basics](https://github.com/peterdelgado92013/aws-iam-security-basics)
 
+---
 
 ### ☁️ Azure Public & Private Networking
 **Built a secure Azure virtual network architecture with public and private subnets.**  
