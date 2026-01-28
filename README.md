@@ -40,6 +40,65 @@ Amazon GuardDuty · AWS CloudFormation · Amazon EC2 · Amazon S3 · AWS CloudSh
 
 ---
 
+# ZenDesk Agent Lab
+
+I’m an **IT Support & Cloud-focused professional** with hands-on experience in **Zendesk, ticketing systems, troubleshooting workflows, and cloud fundamentals**.  
+I build practical, real-world projects that mirror how support teams operate in production environments.
+
+---
+
+## 🧰 Core Skills & Tools
+
+- IT Support & Help Desk Operations
+- Zendesk Agent Workspace (New UI)
+- Ticket Lifecycle Management
+- SLAs, Prioritization & Escalation
+- Views, Queues & Macros
+- Customer Communication & Documentation
+- Cloud Fundamentals (AWS / Azure – hands-on labs)
+- GitHub Project Documentation
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Zendesk Agent Workspace – Hands-On Support Project
+**Hands-on Zendesk project demonstrating real-world support workflows**
+
+**What this project shows:**
+- Creating and managing tickets end-to-end
+- Assigning agents and setting priorities
+- Using views and queues to manage workload
+- Applying macros for faster responses
+- Configuring and validating priority-based SLA policies
+- Responding to customers using best practices
+
+🔗 **View Project:**  
+👉 https://github.com/peterdelgado92013/zendesk-agent-project
+
+---
+
+## 🧠 What I Focus On
+
+- Building **job-relevant, practical projects**
+- Understanding **how tools are used in real teams**
+- Clear documentation recruiters can actually read
+- Continuous learning in **IT Support → Cloud → Security**
+
+---
+
+## 📫 Let’s Connect
+
+- **GitHub:** https://github.com/peterdelgado92013  
+- **LinkedIn:** *https://www.linkedin.com/in/peter-delgado-9632a1196/*
+
+---
+
+⭐ If you’re a recruiter or hiring manager:  
+This GitHub showcases **hands-on experience**, not just coursework.
+
+---
+
 ## 🌐 Secure Static Website Hosting on AWS (S3)
 
 Designed and deployed a **secure static website using Amazon S3**, including diagnosing and resolving a real-world **403 Access Denied** issue by properly configuring bucket policies and public access settings.
