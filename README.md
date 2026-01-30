@@ -1,8 +1,18 @@
-# Peter Delgado  
-☁️ Cloud Engineer | Azure • AWS • Networking • Virtual Machines
+# Peter Delgado 👋  
+☁️ Cloud Engineer | IT Support → Cybersecurity
 
-Focused on building **secure, reliable, and scalable cloud infrastructure**.  
-Hands-on with AWS and Azure through real-world security labs, networking projects, and infrastructure deployments.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=2500&pause=900&color=36BCF7&center=true&vCenter=true&width=900&lines=Breaking+into+IT;Cloud+%7C+AWS+%7C+Azure;Security+Labs+%7C+Networking+%7C+Identity;Long-term+Goal%3A+Cybersecurity)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/peter-delgado-9632a1196/)
+![Visitors](https://komarev.com/ghpvc/?username=peterdelgado92013&style=flat-square)
+
+---
+
+## 👨‍💻 About Me
+I’m focused on building **secure, reliable, and scalable cloud infrastructure** through hands-on labs and real-world simulations.  
+My background is rooted in **IT support, cloud fundamentals, and security-focused projects**, with a long-term goal of transitioning into **cybersecurity**.
+
+I care about understanding how systems work in production, how they fail, and how to secure them — not just passing labs.
 
 ---
 
@@ -14,7 +24,7 @@ Hands-on with AWS and Azure through real-world security labs, networking project
 
 ![AWS GuardDuty Threat Detection Lab](https://raw.githubusercontent.com/peterdelgado92013/aws-guardduty-threat-detection/main/guardduty-header.png)
 
-Hands-on AWS cloud security project focused on **detecting real-world attack behavior** using **Amazon GuardDuty** in a controlled lab environment.
+Hands-on AWS cloud security project focused on **detecting real-world attack behavior** using **Amazon GuardDuty**.
 
 🔗 **Repository:**  
 https://github.com/peterdelgado92013/aws-guardduty-threat-detection
@@ -22,171 +32,97 @@ https://github.com/peterdelgado92013/aws-guardduty-threat-detection
 ### 🔍 What I Did
 - Deployed a vulnerable web application using **AWS CloudFormation**
 - Enabled and configured **Amazon GuardDuty** for account-wide monitoring
-- Simulated real attack techniques:
-  - SQL (Structured Query Language) injection  
-  - Command injection  
-- Simulated **credential misuse** and analyzed GuardDuty findings
-- Validated malware detection using **Amazon S3**
-- Reviewed findings severity and investigation context
+- Simulated real attack techniques (SQL injection, command injection)
+- Simulated credential misuse and reviewed GuardDuty findings
+- Analyzed malware detection using **Amazon S3**
 
 ### 🧠 What I Learned
-- How GuardDuty detects anomalous behavior and credential exfiltration
-- How web vulnerabilities translate into cloud security incidents
-- How GuardDuty findings map to real SOC investigation workflows
-- How malware protection works for Amazon S3
+- How GuardDuty detects anomalous behavior
+- How cloud attacks map to SOC investigation workflows
+- How vulnerabilities translate into security findings
 
 ### 🛠️ Tools Used
-Amazon GuardDuty · AWS CloudFormation · Amazon EC2 · Amazon S3 · AWS CloudShell
+Amazon GuardDuty · AWS CloudFormation · EC2 · S3 · AWS CloudShell
 
 ---
 
-# ZenDesk Agent Lab
+## 🎧 Zendesk Agent Workspace Lab (IT Support)
 
-I’m an **IT Support & Cloud-focused professional** with hands-on experience in **Zendesk, ticketing systems, troubleshooting workflows, and cloud fundamentals**.  
-I build practical, real-world projects that mirror how support teams operate in production environments.
+I’m an **IT Support & Cloud-focused professional** with hands-on experience in **Zendesk, ticketing systems, and support workflows**.
 
----
+### 🔹 Zendesk Agent Workspace Project
+**Real-world support workflow simulation**
 
-## 🧰 Core Skills & Tools
+🔗 https://github.com/peterdelgado92013/zendesk-agent-project
 
-- IT Support & Help Desk Operations
-- Zendesk Agent Workspace (New UI)
-- Ticket Lifecycle Management
-- SLAs, Prioritization & Escalation
-- Views, Queues & Macros
-- Customer Communication & Documentation
-- Cloud Fundamentals (AWS / Azure – hands-on labs)
-- GitHub Project Documentation
-
----
-
-## 📌 Featured Projects
-
-### 🔹 Zendesk Agent Workspace – Hands-On Support Project
-**Hands-on Zendesk project demonstrating real-world support workflows**
-
-**What this project shows:**
-- Creating and managing tickets end-to-end
-- Assigning agents and setting priorities
-- Using views and queues to manage workload
-- Applying macros for faster responses
-- Configuring and validating priority-based SLA policies
-- Responding to customers using best practices
-
-🔗 **View Project:**  
-👉 https://github.com/peterdelgado92013/zendesk-agent-project
-
----
-
-## 🧠 What I Focus On
-
-- Building **job-relevant, practical projects**
-- Understanding **how tools are used in real teams**
-- Clear documentation recruiters can actually read
-- Continuous learning in **IT Support → Cloud → Security**
-
----
-
-## 📫 Let’s Connect
-
-- **GitHub:** https://github.com/peterdelgado92013  
-- **LinkedIn:** *https://www.linkedin.com/in/peter-delgado-9632a1196/*
-
----
-
-⭐ If you’re a recruiter or hiring manager:  
-This GitHub showcases **hands-on experience**, not just coursework.
-
----
-
-## 🌐 Secure Static Website Hosting on AWS (S3)
-
-Designed and deployed a **secure static website using Amazon S3**, including diagnosing and resolving a real-world **403 Access Denied** issue by properly configuring bucket policies and public access settings.
-
-🔗 **Repository:**  
-https://github.com/peterdelgado92013/my-static-website
-
-🎥 **Video Walkthrough:**  
-https://youtu.be/5WCg-RplnbU
-
----
-
-## 🔐 AWS IAM Security & Least Privilege
-
-![AWS IAM Security Project](https://raw.githubusercontent.com/peterdelgado92013/aws-iam-security-basics/main/assets/IAM-Header.png)
-
-Hands-on AWS security project focused on **Identity and Access Management (IAM)** best practices and **least-privilege design**.
-
-**Highlights:**
-- IAM users, groups, and policy design
-- Least-privilege access enforcement
-- EC2 permission testing
-- IAM policy JSON analysis
-
-🔗 **Repository:**  
-https://github.com/peterdelgado92013/aws-iam-security-basics
-
----
-
-## ☁️ Cloud Infrastructure Projects (Azure & AWS)
-
-### Azure Public & Private Networking
-Built a secure Azure virtual network architecture with public and private subnets, NSGs, and controlled SSH access.
-
-🔗 https://github.com/peterdelgado92013/azure-public-private-networking
-
----
-
-### Azure Virtual Machine Deployment
-Deployed and secured Windows and Ubuntu virtual machines with proper networking and access controls.
-
-🔗 https://github.com/peterdelgado92013/azure-virtual-machine-deployment
-
----
-
-### Azure Windows VM – RDP Access
-Configured secure RDP access to a Windows VM, focusing on firewall rules and connectivity troubleshooting.
-
-🔗 https://github.com/peterdelgado92013/azure-windows-vm-rdp
+**Demonstrates:**
+- Ticket creation, prioritization, and escalation
+- SLA validation and queue management
+- Macros, views, and customer communication best practices
 
 ---
 
 ## 🧩 IT Support & Identity Labs
 
-### 🎫 osTicket Help Desk Ticketing System
-Implemented a full help desk ticketing system using **osTicket** on **Microsoft Azure**, demonstrating real-world IT support workflows.
+### 🎫 osTicket Help Desk (Azure)
+Full help desk implementation demonstrating real IT support operations.
 
-🔗 https://github.com/peterdelgado92013/osTicket-Help-Desk-Ticketing-System-
-
-🎥 Demo: https://youtu.be/KsUij6ap3wc
+🔗 https://github.com/peterdelgado92013/osTicket-Help-Desk-Ticketing-System-  
+🎥 https://youtu.be/KsUij6ap3wc
 
 ---
 
-### Active Directory Domain Services Lab (Azure)
-Enterprise-style Active Directory lab covering domain services, DNS, firewall rules, PowerShell troubleshooting, and identity fundamentals.
+### 🧑‍💼 Active Directory Domain Services (Azure)
+Enterprise-style AD lab covering DNS, firewall rules, PowerShell troubleshooting, and identity fundamentals.
 
 🔗 https://github.com/peterdelgado92013/azure-active-directory-lab  
 🎥 https://youtu.be/pn5dJ4kx_qg
 
 ---
 
-## 🔧 Core Skills & Technologies
-- AWS & Microsoft Azure
-- Cloud Security & Identity (IAM, GuardDuty)
-- Virtual Machines (Linux & Windows)
-- Networking (DNS, IP addressing, firewalls, NSGs)
-- Secure Shell (SSH) & Remote Desktop (RDP)
-- Active Directory & IT Service Management (ITSM)
+## ☁️ Cloud Infrastructure Projects
+
+### Azure Public & Private Networking
+🔗 https://github.com/peterdelgado92013/azure-public-private-networking
+
+### Azure VM Deployment (Linux & Windows)
+🔗 https://github.com/peterdelgado92013/azure-virtual-machine-deployment
+
+### Secure Static Website Hosting (AWS S3)
+🔗 https://github.com/peterdelgado92013/my-static-website  
+🎥 https://youtu.be/5WCg-RplnbU
 
 ---
 
-## 📈 What I’m Currently Working On
-- Expanding cloud security projects across **AWS and Azure**
-- Building a security-focused cloud engineering portfolio
-- Strengthening identity, access control, monitoring, and cost awareness
-- Preparing for **Azure and AWS certifications**
+## 🔐 AWS IAM & Least Privilege
+
+![AWS IAM Security Project](https://raw.githubusercontent.com/peterdelgado92013/aws-iam-security-basics/main/assets/IAM-Header.png)
+
+🔗 https://github.com/peterdelgado92013/aws-iam-security-basics
 
 ---
 
-## 🤳 Connect with Me
-[LinkedIn](https://linkedin.com/in/peter-delgado-9632a1196/)
+## 🛠️ Core Skills & Technologies
+- AWS & Microsoft Azure  
+- Cloud Security (IAM, GuardDuty)  
+- IT Support & Ticketing Systems  
+- Networking (DNS, IP, Firewalls, NSGs)  
+- Linux & Windows Virtual Machines  
+- Active Directory & Identity Fundamentals  
+
+---
+
+## 📈 GitHub Activity
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=peterdelgado92013&theme=github-compact)
+
+---
+
+## 🎯 What I’m Working Toward
+- Entry-level **IT Support / Technical Support** roles  
+- Growing into **Cloud & Cybersecurity**  
+- Continuing to build security-focused cloud projects  
+
+---
+
+⭐ If you’re a recruiter or hiring manager:  
+This profile reflects **hands-on, practical experience**, not just coursework.
